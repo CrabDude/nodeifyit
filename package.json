@@ -1,0 +1,22 @@
+{
+  "name": "nodeifyit",
+  "version": "1.0.0",
+  "description": "Convert an async or promise returning function to a callback accepting function",
+  "homepage": "http://github.com/CrabDude/nodeifyit",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CrabDude/nodeifyit.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Crabtree",
+  "keywords": [
+    "promise",
+    "callback",
+    "nodeify",
+    "async"
+  ],
+  "license": "MIT"
+}

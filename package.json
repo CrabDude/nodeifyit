@@ -18,5 +18,8 @@
     "nodeify",
     "async"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bluebird-nodeify": "^1.0.0"
+  }
 }
